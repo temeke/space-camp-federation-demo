@@ -3,8 +3,12 @@
 **Installation:**
 
 ```sh
-npm i && npm run server
+yarn && yarn server
 ```
+
+**The problem:**
+
+HOW TO GET RESPONSE BODY?!?! (index.js)
 
 **Code Along:**
 
